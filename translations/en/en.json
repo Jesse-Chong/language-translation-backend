@@ -1,4 +1,6 @@
 {
+    "about.description": "I am an asian boy, who became a software engineer!",
+    "about_button": "About me",
     "greetings": "Hello, please select your language and city.",
     "submit_button": "Submit"
 }
